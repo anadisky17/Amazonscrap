@@ -1,4 +1,3 @@
-
 # Amazon Scraper : Scrape and extract products details from "Amazon.com" search results pages and return it in JSON format.
 
 A simple amazon scraper to extract product details and prices from Amazon.com using Python Requests and Selectorlib library. 
